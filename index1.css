@@ -602,7 +602,7 @@ body:not(.user-is-tabbing) a:focus {
   }
   
   #css .progress {
-    max-width: 80%;
+    max-width: 90%;
     height: 100%;
     background: #BB271A;
     position: relative;
@@ -620,7 +620,7 @@ body:not(.user-is-tabbing) a:focus {
   }
 
   #Java .progress {
-    max-width: 70%;
+    max-width: 80%;
     height: 100%;
     background: #BB271A;
     border-radius: 3px;
@@ -639,7 +639,7 @@ body:not(.user-is-tabbing) a:focus {
   
  
   #Python .progress {
-    max-width: 90%;
+    max-width: 80%;
     height: 100%;
     background: #BB271A;
     position: relative;
